@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/90326051/189549281-24a0b323-409c-4c74-a8ff-d8b6cae46a01.png)
+![image](https://user-images.githubusercontent.com/90326051/189549516-7e6e7c59-13fe-414b-8d83-752ff9015bd2.png)
 
 
 # <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="35px"/>Guidlines:
