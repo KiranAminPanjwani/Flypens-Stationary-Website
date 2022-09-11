@@ -3,7 +3,8 @@
 
 # <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="35px"/>Guidlines:
 
-- Go to <ins>[Azure.com](https://azure.microsoft.com/en-us/)</ins>
+- First, ensure that your repository has been created and that your code has been pushed to GitHub's **Master branch**.
+- As a second step, go to <ins>[Azure.com](https://azure.microsoft.com/en-us/)</ins>
 - <b><ins>Sign In</ins></b> with your credentials
 - Select "<b>Create a Resource</b>" </br>
  <kbd>![image](https://user-images.githubusercontent.com/90326051/189541372-fec0d261-222e-48c3-a787-b9cb1a0617d5.png)</kbd>
