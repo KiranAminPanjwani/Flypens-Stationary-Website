@@ -165,8 +165,19 @@
 | <kbd>![image](https://user-images.githubusercontent.com/90326051/189547834-cfb9db63-05ee-4758-aaf9-fa565925e550.png)</kbd> | <kbd>![image](https://user-images.githubusercontent.com/90326051/189547873-7a05bb82-b4c0-4198-afb0-c518624ae023.png)
 </kbd>|  
 
-  <kbd></kbd>
-   <kbd></kbd>
+ - Scroll down a bit more, modify the **package** and write <ins>**release.zip**</ins>, like this:
+ 
+| Original | Modified | 
+| ------------- | ------------- | 
+| <kbd>![image](https://user-images.githubusercontent.com/90326051/189547958-3f4c8f1c-c57f-4b42-b528-36e94207dc69.png)</kbd> | <kbd>![image](https://user-images.githubusercontent.com/90326051/189548000-644d08ce-9a2c-4f38-80eb-adc6de2afef1.png)
+</kbd>| 
+  
+ - Then, hit "<ins>**Start Commit**</ins>" button and **Commit Changes**.
+ 
+   <kbd>![image](https://user-images.githubusercontent.com/90326051/189548098-0184f897-bf50-4401-8254-73c3f9fa2f1a.png)
+</kbd>
+ 
+ - 
   <kbd></kbd>
    <kbd></kbd>
   "<b><ins>Create</ins></b>"
