@@ -75,11 +75,99 @@
 </kbd>
   
   - Then it will take some time and start **Deployment**
-  -After Deployment is completed...
+ <kbd>![image](https://user-images.githubusercontent.com/90326051/189546301-86bdab34-e1b2-4211-80de-e6b2107ec254.png)
+ </kbd>
+ 
+  -Once Deployment is completed... 
+ - Select <b><ins>Go to Resources</ins></b> button...
+   <kbd>![image](https://user-images.githubusercontent.com/90326051/189546327-f73d64c7-a79b-4fed-9397-330229be02ad.png)
+</kbd>
+ 
+ - You will be redirect to a page like this:
+ 
+    <kbd>![image](https://user-images.githubusercontent.com/90326051/189546257-310370dd-09bb-4d76-a149-c7ed6bfbede2.png)
+</kbd>
+ 
+ - Then check your "<b><ins>GitHub Repository</ins></b>", you will find one action <ins>**In Progress**</ins>
+   <kbd>![image](https://user-images.githubusercontent.com/90326051/189546364-1d08d50f-d961-4cb0-a0cf-872dd6740790.png)
+</kbd>
+ 
+ <kbd>![image](https://user-images.githubusercontent.com/90326051/189546552-99768b39-e827-4baa-84f3-af5f2c84deac.png)
+</kbd>
+ 
+ - Then go to the <ins>**Actions**</ins> tab and select the running <ins>**Workflow**</ins>.
+   
+   <kbd>![image](https://user-images.githubusercontent.com/90326051/189546620-0e8653ee-cfae-49c7-9c6c-bc27b4154160.png)
+</kbd>
+ 
+ - This workflow process will consume enormous amount of time! To reduce the time consumption, we need to modify the workflow file. For that, we will **cancel** the current Workflow :
+ 
+    <kbd>![image](https://user-images.githubusercontent.com/90326051/189546811-06c8743f-3996-4338-9b96-f219b67a8da1.png)
+</kbd>
+ 
+ - After cancelling the workflow, select "<ins>**View workflow file**</ins>" option from the top right corner:
+ 
+   <kbd>![image](https://user-images.githubusercontent.com/90326051/189546886-523df212-870c-4d94-870e-44c8027f9e9f.png)
+</kbd>
+ 
+ - Then start editing the file using **Pen icon**:
+ 
+    <kbd>![image](https://user-images.githubusercontent.com/90326051/189546925-0f65d366-7010-4631-ba04-31006947603d.png)
+</kbd>
+ 
+ - Scroll down to this section of your code and add a **comment** : "<ins>**Zip the build directory**</ins>"
+   <kbd>![image](https://user-images.githubusercontent.com/90326051/189547010-7384f920-2a20-47af-bc53-d1abcf58d082.png)
+</kbd>
+ 
+ <kbd>![image](https://user-images.githubusercontent.com/90326051/189547045-941af18c-4cf2-49d4-983f-5f4c9da94f00.png)
+</kbd>
+ 
+ - Then search "<ins>**zip**</ins>" in the side search bar and select "<ins>**Zip Release**</ins>".
+ 
+   <kbd>![image](https://user-images.githubusercontent.com/90326051/189547132-64663307-13f9-4bf6-81ec-e4e491dabdc0.png)
+</kbd>
+ 
+ - Copy the code like this and paste it below your comment.
+ <kbd>![image](https://user-images.githubusercontent.com/90326051/189547219-f1a4020f-dac0-4c8f-acd9-f408cfef693e.png)
+</kbd>
+ 
+   <kbd>![image](https://user-images.githubusercontent.com/90326051/189547296-7910df1f-a8ca-4c33-92e5-5f596b3ca60c.png)
+</kbd>
+ 
+ - Then **remove** the select unnecessary code, like this:
+ 
+ <kbd>![image](https://user-images.githubusercontent.com/90326051/189547332-c64dff48-883c-4168-84ee-6b1fef4532af.png)
+</kbd>
+ 
+ - Then select and modify the **path**, like this:
+ 
+| Original | Modified | 
+| ------------- | ------------- | 
+| <kbd>![image](https://user-images.githubusercontent.com/90326051/189547424-2df984ef-3391-4d13-aa06-9fcd3da3b9c6.png)</kbd> | <kbd>![image](https://user-images.githubusercontent.com/90326051/189547463-69689ef7-3523-4a05-8db6-fe1ae29db297.png)
+</kbd>| 
+
+ - Then select and modify the **filename**, like this:
+ 
+| Original | Modified | 
+| ------------- | ------------- | 
+| <kbd>![image](https://user-images.githubusercontent.com/90326051/189547694-337c526e-3898-403b-ac3c-c38319cf2112.png)</kbd> | <kbd>![image](https://user-images.githubusercontent.com/90326051/189547707-41898a92-9322-45ab-8f0a-07a2f58f7f03.png)
+</kbd>|  
+ 
+ - It will finally look like this:
+ 
+   <kbd>![image](https://user-images.githubusercontent.com/90326051/189547738-b300598c-375a-445b-a4da-a3aa079e3dc6.png)
+</kbd>
+
+- Scroll down your code a bit, modify the **path** and write <ins>**release.zip**</ins>, like this:
+ 
+| Original | Modified | 
+| ------------- | ------------- | 
+| <kbd>![image](https://user-images.githubusercontent.com/90326051/189547834-cfb9db63-05ee-4758-aaf9-fa565925e550.png)</kbd> | <kbd>![image](https://user-images.githubusercontent.com/90326051/189547873-7a05bb82-b4c0-4198-afb0-c518624ae023.png)
+</kbd>|  
+
+  <kbd></kbd>
    <kbd></kbd>
-    <kbd></kbd>
-   <kbd></kbd>
-    <kbd></kbd>
+  <kbd></kbd>
    <kbd></kbd>
   "<b><ins>Create</ins></b>"
   "<b><ins>Create</ins></b>"
