@@ -60,4 +60,4 @@ jobs:
           app-name: 'Flypens-Stationary'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B54C6AFBEF54AB6821EC829174D45DE }}
-          package: .
+          package: release.zip
