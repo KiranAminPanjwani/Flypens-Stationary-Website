@@ -1,5 +1,7 @@
-# How to host your First React App on Azure:
-<h3>Step by step working:</h3>
+![image](https://user-images.githubusercontent.com/90326051/189549174-c0a4d4bc-a901-449e-b9a4-87087e9fe061.png)
+
+
+# <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="35px"/>Guidlines:
 
 - Go to <ins>[Azure.com](https://azure.microsoft.com/en-us/)</ins>
 - <b><ins>Sign In</ins></b> with your credentials
