@@ -1,0 +1,230 @@
+body {
+  margin: 0;
+  padding: 10px;
+  background-color: #f8f0ea;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* -----------heading-------------- */
+.titlemain{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 40vh;
+  border-radius: 50px;
+  box-shadow: 2px 2px 6px 1px grey;
+}
+
+/* --------journals------------------ */
+.separator {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 240px 1fr;
+  opacity: 0.6;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.separator__line {
+  background-color: #808082;
+  height: 2px;
+  width: 100%;
+}
+
+.titlemain img {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+.outerCont{
+  justify-content: center;
+  text-align: center;
+  padding: 1% 7%;  
+  border-radius: 50px;
+  box-shadow: 0px 1px 0 0px rgba(128, 128, 128, 0.673);
+}
+.out_JournalCont{
+  background-color: #e3e2e2;
+  margin-top: 30px;
+}
+.journalCont, .newArrivalCont {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  height: max-content;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  box-sizing: border-box !important;
+}
+
+.singleJournal {
+  width: max-content;
+}
+
+.sJ_img {
+  margin: 15px;
+}
+
+.sJ_img img {
+  height: 25vh;
+  padding-top: 1%;
+  box-shadow: 0px 1px 2px 0px rgba(128, 128, 128, 0.673);
+}
+
+.sJ_name {
+  margin-bottom: 0px;
+}
+
+.sJ_Price {
+  margin-top: 0px;
+}
+.showMore {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  padding-top: 2%;
+}
+.showmoreBtn {
+  border: 1px solid black;
+  background-color: transparent;
+  color: black;
+  font-size: larger;
+  padding: 10px 65px;
+  font-weight: bold;
+}
+
+/* ---------new arrivals----------------- */
+.out_newArrivalCont{
+  background-color: #f1e5e5;
+  margin-top: 10px;
+}
+.out_newArrivalCont .separator h1{
+  color: black !important;
+}
+
+/* -----footer-------------------- */
+
+.footermain{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: max-content;
+  border-radius: 50px;
+  box-shadow: 0px 3px 2px 0px grey;
+  margin-top: 30px;
+}
+.footermain .ft{
+  /* display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));  */
+  
+}
+
+.ft{
+  margin: 30px;
+}
+
+.col1, .col2, .col3, .col4{
+  padding-top: 10px;
+}
+.col2, .col3{
+  max-width: 240px;
+}
+.col4{
+  max-width: 350px;
+}
+.col1{
+  min-width: 240px;
+}
+.col1 img{
+  width: 100%;
+}
+.footericons{
+  display: flex;
+  justify-content: center;
+  opacity: 0.75;
+}
+.footericons img{
+  width: 30px;
+  padding: 2px;
+}
+
+.col2 h5, .col3 h5{
+  text-transform: uppercase;
+  font-size: medium;
+}
+.col4 h5{
+  font-size: medium;
+}
+.col2 li, .col3 li{
+  list-style: none;
+  padding: 5px;
+  font-weight: 4500;
+}
+.col2 li:hover, .col3 li:hover{
+  text-decoration: underline;
+  font-weight: 500;
+}
+.emailInput{
+  border-bottom: 1px solid gray;
+  padding: 10px;
+}
+.col4 input{
+  border: none;
+  background-color: transparent;
+  letter-spacing: 1px;
+  font-size: medium;
+  display: block;
+  width: 100%;
+}
+.col4 button{
+  margin: 20px 10px;
+  padding: 10px 40px;
+  font-size: medium;
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, 0.908);
+  color: white;
+}
+
+
+.aboutMain {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  height: max-content;
+}
+
+.column1,
+.column2 {
+  justify-content: center;
+  text-align: center;
+
+  width: 50%;
+
+  background-color: green;
+}
