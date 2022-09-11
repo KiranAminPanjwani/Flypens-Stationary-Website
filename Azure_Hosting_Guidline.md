@@ -177,9 +177,23 @@
    <kbd>![image](https://user-images.githubusercontent.com/90326051/189548098-0184f897-bf50-4401-8254-73c3f9fa2f1a.png)
 </kbd>
  
- - 
-  <kbd></kbd>
-   <kbd></kbd>
-  "<b><ins>Create</ins></b>"
-  "<b><ins>Create</ins></b>"
+ - Now, go to the "<b><ins>Actions</ins></b>" tab and check.
+ - It will take few minutes to complete the deployment.
+ 
+  <kbd>![image](https://user-images.githubusercontent.com/90326051/189548232-ecd8301f-be46-42c9-aae1-25b00b6d59bb.png)
+</kbd>
+
+   <kbd>![image](https://user-images.githubusercontent.com/90326051/189548269-919fe5fc-ca2e-418a-b52a-09071cca4cf9.png)
+</kbd>
+ 
+ - Onece the deployment is completed, Go back to your Azure account, **and copy/open your <ins>URL</ins>** to the new tab
+ 
+ <kbd>![image](https://user-images.githubusercontent.com/90326051/189548354-c5df099b-1cb5-4c73-973a-9327ddc72a24.png)
+</kbd>
+ 
+ - <b>Finally, your website is Hosted! Congratulation!!!</b>🎉
+ 
+ <kbd>![image](https://user-images.githubusercontent.com/90326051/189548390-c4c5b59a-b7ef-44de-acbe-ce4a276f005e.png)
+</kbd>
+ 
 
