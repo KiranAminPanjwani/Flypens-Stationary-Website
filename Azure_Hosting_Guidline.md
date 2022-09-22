@@ -1,12 +1,53 @@
 ![image](https://user-images.githubusercontent.com/90326051/189549516-7e6e7c59-13fe-414b-8d83-752ff9015bd2.png)
 
 
+<h3> Note: </h3>
+There are 2 ways to host your website using Azure Static Web Apps Service.
+
+
 # <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="35px"/>Guidlines:
+
+<h2>Technique # 1:</h2>
+
+- First, ensure that your repository has been created and that your code has been pushed to GitHub's **Main branch**.
+- As a second step, go to <ins>[Azure.com](https://azure.microsoft.com/en-us/)</ins>
+- <b><ins>Sign In</ins></b> with your credentials
+- Select "<b>Static Web Apps</b>" <ins>icon</ins>
+
+<kbd>![image](https://user-images.githubusercontent.com/90326051/191842629-815dae72-e20e-4d3b-a07e-4c4040d37238.png)</kbd>
+
+- And select "**+ Create**" option.
+
+<kbd>![image](https://user-images.githubusercontent.com/90326051/191844354-32970dc0-926a-470a-a32c-148c4e84ae30.png)</kbd>
+
+- Enter your <ins>Static Web App's</ins> **Name**:
+
+<kbd>![image](https://user-images.githubusercontent.com/90326051/191844812-99983a99-9e7f-441a-8a47-765a8989b953.png)
+</kbd>
+
+- Select you nearest **Region** from the drop down and authorize it with you **Github Account**.
+
+<kbd>![image](https://user-images.githubusercontent.com/90326051/191845232-45a5f55e-f98d-44a4-94d9-1812e1a3edcb.png)</kbd>
+
+- Then enter your "<b><ins>GitHub Username</ins></b>" to the "<ins>Organization</ins>"
+- Choose your "<b><ins>Repository name</ins></b>" from the drop down menu.
+- Select your "<b><ins>branch</ins></b>".
+- And nput your <ins>**Build Details**</ins> by selecting <ins>**Build Presets**</ins> from the dropdown menu.
+
+<kbd>![image](https://user-images.githubusercontent.com/90326051/191845854-dd0ecf53-75ac-4a6e-8c6e-f3945cfceeee.png)</kbd>
+
+- Finally, hit <ins>"**Review & Create**"</ins> button to start deployment.✨
+
+
+</br> </br> </br>
+
+<h2>Technique # 2:</h2>
 
 - First, ensure that your repository has been created and that your code has been pushed to GitHub's **Master branch**.
 - As a second step, go to <ins>[Azure.com](https://azure.microsoft.com/en-us/)</ins>
 - <b><ins>Sign In</ins></b> with your credentials
 - Select "<b>Create a Resource</b>" </br>
+
  <kbd>![image](https://user-images.githubusercontent.com/90326051/189541372-fec0d261-222e-48c3-a787-b9cb1a0617d5.png)</kbd>
 
 - Search "<b>Web App</b>" in the Search bar </br> <kbd>![image](https://user-images.githubusercontent.com/90326051/189541488-7c9e35ca-5f77-4135-b301-3baeb8605777.png)</kbd>
@@ -57,7 +98,7 @@
   
   - Then enter your "<b><ins>GitHub Username</ins></b>" to the "<ins>Organization</ins>"
   - Choose your "<b><ins>Repository name</ins></b>" from the drop down menu.
-  - Select the your "<b><ins>branch</ins></b>"
+  - Select your "<b><ins>branch</ins></b>".
   
   <kbd>![image](https://user-images.githubusercontent.com/90326051/189543641-0735e944-a47d-426f-b573-e6f891974efb.png)
 </kbd>
