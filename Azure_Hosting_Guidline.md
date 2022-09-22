@@ -7,7 +7,7 @@ There are 2 ways to host your website using Azure Static Web Apps Service.
 
 # <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="35px"/>Guidlines:
 
-<h2>Technique # 1:</h2>
+<h2>👉Technique # 1:</h2>
 
 - First, ensure that your repository has been created and that your code has been pushed to GitHub's **Main branch**.
 - As a second step, go to <ins>[Azure.com](https://azure.microsoft.com/en-us/)</ins>
@@ -41,7 +41,7 @@ There are 2 ways to host your website using Azure Static Web Apps Service.
 
 </br> </br> </br>
 
-<h2>Technique # 2:</h2>
+<h2>👉Technique # 2:</h2>
 
 - First, ensure that your repository has been created and that your code has been pushed to GitHub's **Master branch**.
 - As a second step, go to <ins>[Azure.com](https://azure.microsoft.com/en-us/)</ins>
