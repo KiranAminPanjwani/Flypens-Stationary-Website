@@ -25,7 +25,7 @@ There are 2 ways to host your website using Azure Static Web Apps Service.
 <kbd>![image](https://user-images.githubusercontent.com/90326051/191844812-99983a99-9e7f-441a-8a47-765a8989b953.png)
 </kbd>
 
-- Select you nearest **Region** from the drop down and authorize it with you **Github Account**.
+- Select your nearest **Region** from the drop down and authorize it with your **Github Account**.
 
 <kbd>![image](https://user-images.githubusercontent.com/90326051/191845232-45a5f55e-f98d-44a4-94d9-1812e1a3edcb.png)</kbd>
 
